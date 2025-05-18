@@ -33,7 +33,7 @@ cd alu_regex-data-extraction-Ntagungira-cmd
 Run the script directly:
 
 ```bash
-python extract_data.py
+python Main.py
 ```
 
 The script includes a sample text with various data types to extract. You can modify the `sample_text` variable in the `main()` function to test with your own data.
